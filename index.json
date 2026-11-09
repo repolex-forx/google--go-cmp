@@ -1,0 +1,11 @@
+{
+  "org": "google",
+  "repo": "go-cmp",
+  "versions": [
+    {
+      "commit": "5deca1c7dab7d33c102d8d7a26794da148485563",
+      "tag": "",
+      "parsed_at": "2026-11-09T22:02:36.844548+00:00"
+    }
+  ]
+}
