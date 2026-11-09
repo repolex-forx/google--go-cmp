@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google/go-cmp/commit/5deca1c7dab7d33c102d8d7a26794da148485563",
       "git:hexsha": "5deca1c7dab7d33c102d8d7a26794da148485563",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T22:02:36.843640+00:00"
     },
     {
       "@id": "https://repolex.ai/r/google/go-cmp/commit/8099a9787ce5dc5984ed879a3bda47dc730a8e97",
